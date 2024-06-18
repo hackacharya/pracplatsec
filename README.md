@@ -10,3 +10,11 @@ A Getting Started TODO List for platform/kubernetes cluster security - especiall
   - If you can write a neat script with either grip or pandoc or a2pdf or whatever to generate quickly PDF from this add to this page.
   - Submit the JIRA importable CSV
 
+
+# An unncessarily complicated but interesting way to get your PDF from markdown
+
+   pip install grip
+   grip PracticalPlatformSecurity.md
+   open http://localhost:6419
+
+   See also pandoc, a2pdf, pdflatex etc.. 
