@@ -1,0 +1,5 @@
+# Copyright and Disclaimer
+
+Copyright © 2024. All rights reserved. srini@hackacharya.com
+This document is provided for informational purposes. The content of this document is provided "as is" without warranty of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The author of this document disclaims any and all liability for any damages or losses arising out of or in connection with the use or misuse of this document. By using this document, you acknowledge that you have read and agreed to this disclaimer.. This document is not subject to any license or warranty and this document may not be copied into other publications or documents without the express written consent of the author. However the document may be distributed as is freely,  modified, and distributed freely as long as the author's identity is preserved, visibly in the distributions, and  modifications and versions  are captured in a clear revision history  and this statement is maintained along with the as-is or modified distribution.
+
